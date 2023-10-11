@@ -8,7 +8,7 @@ public class Fctorial {
 	int b = 1;
 	Scanner sc = new Scanner(System.in);
 	int p = sc.nextInt();
-	while(a<=15) {
+	while(a<=p) {
 		b=a*b;
 		a++;
 	}

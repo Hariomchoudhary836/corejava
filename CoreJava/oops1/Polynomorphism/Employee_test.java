@@ -22,7 +22,7 @@ class employee{
 class devaloper extends employee{
    public void  Showedetail() {
 	   super.Showedetail();
-	   System.out.println("this is devaloper detail");
+	   System.out.println("tshis is devaloper detail");
    }
    public void Showedetail(String s) {
 	   super.Showedetail(s);

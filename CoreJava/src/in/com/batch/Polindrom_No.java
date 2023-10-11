@@ -2,7 +2,7 @@ package in.com.batch;
 
 public class Polindrom_No {
 public static void main(String[] args) {
-	int a=132;
+	int a=131;
 	int b=a;
 	int c=0;
 	int d;
