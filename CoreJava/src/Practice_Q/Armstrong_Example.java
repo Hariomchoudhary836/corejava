@@ -1,4 +1,4 @@
-package in.com.batch;
+package Practice_Q;
 
 public class Armstrong_Example {
 	public static void main(String []args) {
@@ -16,6 +16,7 @@ public class Armstrong_Example {
     	 System.out.println("yes Armstong");
      }else {
     	 System.out.println("No Armstrong");
+     
     }
   }  
 }     

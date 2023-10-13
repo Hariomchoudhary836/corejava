@@ -7,7 +7,7 @@ public class NumberPrint {
 		int i=1;
 		while(i<=40) {
 			
-			System.out.println("hello hariom");
+			System.out.println(i);
 			
 			i++;
 			

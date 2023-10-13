@@ -2,7 +2,7 @@ package in.com.batch;
 
 public class ConditionStaterment_Switch {
     public static void main(String [] args) {
-    	int n = 3;
+    	int n = 4;
     	switch(n) {
     	case 1:
     	   System.out.println("Monday");

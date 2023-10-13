@@ -5,7 +5,7 @@ public class Switch_Ex {
 		int num1=10;
 		int num2=20;
 		int result;
-		char operator='+';
+		char operator='/';
 		switch (operator) {
 			case '+':
 				result=num1+num2;
